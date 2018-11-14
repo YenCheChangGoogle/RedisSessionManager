@@ -1,0 +1,9 @@
+nginx-1.14.0 80
+
+apache-tomcat-8.5.12_8080
+apache-tomcat-8.5.12_8081
+apache-tomcat-8.5.12_9090
+
+10.0.201.21:6379 database="8"
+
+Redis3.2.100
